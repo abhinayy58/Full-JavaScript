@@ -1,0 +1,93 @@
+JAVASCRIPT TYPES
+-----------------
+// Number
+// String
+// Boolean
+// Undefined
+// Null
+// Symbol (new in ECMAScript 6)
+// Object
+
+JAVASCRIPT COMPARISONS
+------------------------
+//  !==
+//  ===
+//  >=
+//  <=
+//  >
+//  <
+
+JAVASCRIPT VARIABLES
+--------------
+// VAR
+// LET (new in ECMAScript 6)
+// CONST  (new in ECMAScript 6)
+
+JAVASCRIPT CONDITIONAL
+-----------------------
+// if
+// else
+// else if
+// Ternary operator
+// switch
+
+JAVASCRIPT LOGICAL OPERATOR 
+------------------------------
+// &&
+// ||
+// !
+
+JAVASCRIPT FUNCTIONS
+-----------------------
+// var a = function name() {}
+// function name() { }
+// return
+// () =>  (new in ECMAScript 6)
+
+JAVASCRIPT DATA STRUCTURE
+--------------------------
+// ARRAY
+// OBJECT 
+
+JAVASCRIPT LOOPING
+-----------------------
+// for
+// while
+// do ....while
+// forEach  (new in ECMAScript 6)
+
+JAVASCRIPT KEYWORDS
+---------------------
+// break
+// case
+// catch
+// class
+// const
+// continue
+// debugger
+// default
+// delete
+// do
+// else
+// export
+// extends
+// finally
+// for
+// function
+// if
+// import
+// in
+// instanceof
+// new
+// return
+// super
+// switch
+// this
+// throw
+// try 
+// typeof
+// var
+// void
+// while
+// with
+// yield
